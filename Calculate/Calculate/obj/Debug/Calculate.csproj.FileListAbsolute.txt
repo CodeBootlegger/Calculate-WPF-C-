@@ -1,0 +1,15 @@
+C:\Users\Thomas\source\repos\Calculate\Calculate\obj\Debug\Calculate.csprojAssemblyReference.cache
+C:\Users\Thomas\source\repos\Calculate\Calculate\obj\Debug\MainWindow.g.cs
+C:\Users\Thomas\source\repos\Calculate\Calculate\obj\Debug\App.g.cs
+C:\Users\Thomas\source\repos\Calculate\Calculate\obj\Debug\Calculate_MarkupCompile.cache
+C:\Users\Thomas\source\repos\Calculate\Calculate\obj\Debug\Calculate_MarkupCompile.lref
+C:\Users\Thomas\source\repos\Calculate\Calculate\bin\Debug\Calculate.exe.config
+C:\Users\Thomas\source\repos\Calculate\Calculate\bin\Debug\Calculate.exe
+C:\Users\Thomas\source\repos\Calculate\Calculate\bin\Debug\Calculate.pdb
+C:\Users\Thomas\source\repos\Calculate\Calculate\obj\Debug\MainWindow.baml
+C:\Users\Thomas\source\repos\Calculate\Calculate\obj\Debug\Calculate.g.resources
+C:\Users\Thomas\source\repos\Calculate\Calculate\obj\Debug\Calculate.Properties.Resources.resources
+C:\Users\Thomas\source\repos\Calculate\Calculate\obj\Debug\Calculate.csproj.GenerateResource.cache
+C:\Users\Thomas\source\repos\Calculate\Calculate\obj\Debug\Calculate.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\source\repos\Calculate\Calculate\obj\Debug\Calculate.exe
+C:\Users\Thomas\source\repos\Calculate\Calculate\obj\Debug\Calculate.pdb
